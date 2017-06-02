@@ -5,6 +5,11 @@ dev-setup
   <img src="https://raw.githubusercontent.com/donnemartin/dev-setup-resources/master/res/repo-header.gif">
 </p>
 
+## Reference
+git@github.com:altercation/solarized.git
+git@github.com:Jayon/dotfiles.git
+git@github.com:powerline/fonts.git
+
 ## Motivation
 
 Setting up a new developer machine can be an **ad-hoc, manual, and time-consuming** process.  `dev-setup` aims to **simplify** the process with **easy-to-understand instructions** and **dotfiles/scripts** to **automate the setup** of the following:

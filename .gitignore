@@ -1,0 +1,42 @@
+build/
+bin-debug/
+bin-release-temp/
+bin/
+dist/
+dest/
+release/
+logs/
+*.pbxuser
+*.mode1v3
+test-reports/*
+.DS_Store
+xcuserdata/
+DerivedData/
+*.iml
+*.ipr
+*.iws
+.idea
+target
+tmp
+*.log
+out
+.gradle
+gradle
+bin
+# local 
+*-local.*
+
+# archives
+*.tar.gz
+*.jar
+
+node_modules/
+component_modules/
+bower_components/
+*.bak
+*.tmp
+Thumbs.db
+
+# customer
+test.sh
+
